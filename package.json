@@ -1,0 +1,23 @@
+{
+  "name": "learn-intl",
+  "version": "0.0.1",
+  "description": "Learn intl-n-stuff",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yowainwright/learn-intl.git"
+  },
+  "keywords": [
+    "learn",
+    "intl"
+  ],
+  "author": "Jeff Wainwright <yowainwright@gmail.com> (https://jeffry.in)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yowainwright/learn-intl/issues"
+  },
+  "homepage": "https://github.com/yowainwright/learn-intl#readme"
+}
